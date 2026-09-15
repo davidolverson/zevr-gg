@@ -1,9 +1,11 @@
 1:"$Sreact.fragment"
-2:I[5502,["177","static/chunks/app/layout-a503149451bfba8e.js"],"SiteChrome"]
+2:I[5502,["177","static/chunks/app/layout-2980b68bf7fc1da3.js"],"SiteChrome"]
 3:I[9766,[],""]
 4:I[8924,[],""]
-5:I[2619,["345","static/chunks/app/not-found-97b02f412e015abb.js"],""]
+5:I[2619,["345","static/chunks/app/not-found-13f64f501fc8e620.js"],""]
 10:I[7150,[],""]
+:HL["/_next/static/media/103fc5fac08dcb15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/d14dca58e2767ea0.css","style"]
 :HL["/_next/static/css/a8d74e4cd886e663.css","style"]
 :HL["/_next/static/css/8ccd6b1e961e5f55.css","style"]
@@ -22,7 +24,7 @@ b:["$","section",null,{"className":"Section_section__HA3Gm","id":"work","aria-la
 c:["$","section",null,{"className":"Section_section__HA3Gm","id":"partner","aria-labelledby":"partner-title","children":["$","div",null,{"className":"Section_inner__oBGCP","children":[["$","header",null,{"className":"Section_head__vGqqr","children":[["$","p",null,{"className":"Section_marker__iQSb2","children":[null,["$","span",null,{"className":"Section_eyebrow__QQS7b","children":"Partners"}]]}],["$","h2",null,{"id":"partner-title","className":"Section_title__POkTm","children":"Partner with ZEVR."}],["$","p",null,{"className":"Section_intro__dyc9s","children":"Brand and partnership conversations start by email."}]]}],[["$","div",null,{"className":"Blocks_grid__HR_Mt","children":[["$","article",null,{"className":"Blocks_panel__WXXdf","children":[["$","h3",null,{"className":"Blocks_panelTitle__1UwKv","children":"Start the conversation"}],["$","div",null,{"className":"Blocks_panelBody__bsU4u","children":[["$","p",null,{"children":"Email the partnership context: what you are trying to reach, and by when."}],["$","p",null,{"className":"contact_panelAction__9ZLj3","children":["$","a",null,{"className":"CTA_cta__ZyuCa CTA_secondary__SQW3U","href":"mailto:business@zevr.gg?subject=Partner%20with%20ZEVR","children":"Email about a partnership"}]}]]}]]}],["$","article",null,{"className":"Blocks_panel__WXXdf","children":[["$","h3",null,{"className":"Blocks_panelTitle__1UwKv","children":"Community and updates"}],["$","div",null,{"className":"Blocks_panelBody__bsU4u","children":[["$","p",null,{"children":"The ZEVR community is on Discord, and public posts land on X. Neither is an intake channel; use email for work and partner conversations."}],["$","p",null,{"className":"contact_panelAction__9ZLj3","children":[["$","a",null,{"className":"CTA_cta__ZyuCa CTA_secondary__SQW3U","href":"https://discord.gg/zevr","target":"_blank","rel":"noopener noreferrer","children":"discord.gg/zevr"}]," ",["$","a",null,{"className":"CTA_cta__ZyuCa CTA_secondary__SQW3U","href":"https://x.com/TeamZevr","target":"_blank","rel":"noopener noreferrer","children":"x.com/TeamZevr"}]]}]]}]]}]]}],["$","p",null,{"className":"Blocks_note__MhZE4","children":"Nothing on this page promises a response time, representation, sponsorship, campaign placement, roster placement, or employment."}]]]}]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8ccd6b1e961e5f55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 e:["$","$L11",null,{"children":["$L12",["$","$L13",null,{"promise":"$@14"}]]}]
-f:["$","$1","h",{"children":[null,[["$","$L15",null,{"children":"$L16"}],null],["$","$L17",null,{"children":["$","div",null,{"hidden":true,"children":["$","$18",null,{"fallback":null,"children":"$L19"}]}]}]]}]
+f:["$","$1","h",{"children":[null,[["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L17",null,{"children":["$","div",null,{"hidden":true,"children":["$","$18",null,{"fallback":null,"children":"$L19"}]}]}]]}]
 16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#07080A"}]]
 12:null
 1a:I[622,[],"IconMark"]
